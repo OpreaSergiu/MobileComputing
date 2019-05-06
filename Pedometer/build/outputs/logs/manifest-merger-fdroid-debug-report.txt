@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4242607a7e3f2c0cb517031f166e4d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\EazeGraph-1.0.3.aar\04c281ad15805d2e6a47478eeab5abde\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\541a5f3f4a240726c0f28b5a0078c963\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5c7c7927cc205f3b7a13d465da2fc767\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6869867c1e70a5a53efb2eaa3e609cf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3f0e55fab323ce24a8da36ca08fd8d5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.0.2] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\palette-v7-27.0.2.aar\6c7df9a0920dae8d70a36ed237e8aef4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5d3727b9bd1096c2dd22ea10b7d961cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\80fbf2123dc8db62218075e3b2693cae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8d4d92a267147b0fa3a0650809a8a201\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\56c6881926edaf374dc73ba256aae960\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6b2dee295a4ba3d07a18d8d206f2dd51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f072a60e303dd79426c246ad66f6d1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3cca86cc832ce024e55d5040a7c20ef1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:2:1-91:12
+	package
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:7:5-32
+		INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:4:5-63
+	android:versionCode
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:9:5-11:40
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4242607a7e3f2c0cb517031f166e4d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4242607a7e3f2c0cb517031f166e4d5\AndroidManifest.xml:20:5-44
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\EazeGraph-1.0.3.aar\04c281ad15805d2e6a47478eeab5abde\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\EazeGraph-1.0.3.aar\04c281ad15805d2e6a47478eeab5abde\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\541a5f3f4a240726c0f28b5a0078c963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\541a5f3f4a240726c0f28b5a0078c963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5c7c7927cc205f3b7a13d465da2fc767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5c7c7927cc205f3b7a13d465da2fc767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6869867c1e70a5a53efb2eaa3e609cf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6869867c1e70a5a53efb2eaa3e609cf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3f0e55fab323ce24a8da36ca08fd8d5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3f0e55fab323ce24a8da36ca08fd8d5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\palette-v7-27.0.2.aar\6c7df9a0920dae8d70a36ed237e8aef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\palette-v7-27.0.2.aar\6c7df9a0920dae8d70a36ed237e8aef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5d3727b9bd1096c2dd22ea10b7d961cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5d3727b9bd1096c2dd22ea10b7d961cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\80fbf2123dc8db62218075e3b2693cae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\80fbf2123dc8db62218075e3b2693cae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8d4d92a267147b0fa3a0650809a8a201\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8d4d92a267147b0fa3a0650809a8a201\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\56c6881926edaf374dc73ba256aae960\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\56c6881926edaf374dc73ba256aae960\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6b2dee295a4ba3d07a18d8d206f2dd51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6b2dee295a4ba3d07a18d8d206f2dd51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f072a60e303dd79426c246ad66f6d1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f072a60e303dd79426c246ad66f6d1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3cca86cc832ce024e55d5040a7c20ef1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3cca86cc832ce024e55d5040a7c20ef1\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:11:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:10:9-35
+uses-feature#android.hardware.sensor.stepcounter
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:13:5-15:34
+	android:required
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:14:9-59
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:18:22-78
+application
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:20:5-89:19
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\EazeGraph-1.0.3.aar\04c281ad15805d2e6a47478eeab5abde\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\EazeGraph-1.0.3.aar\04c281ad15805d2e6a47478eeab5abde\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:23:9-41
+		REJECTED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\EazeGraph-1.0.3.aar\04c281ad15805d2e6a47478eeab5abde\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:24:9-79
+	tools:replace
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:25:9-30
+activity#de.j4velin.pedometer.ui.Activity_Main
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:29:13-45
+	android:launchMode
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:28:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:34:27-74
+receiver#de.j4velin.pedometer.BootReceiver
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:38:9-42:20
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:38:19-47
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:39:13-41:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:40:25-76
+receiver#de.j4velin.pedometer.AppUpdatedReceiver
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:43:9-47:20
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:43:19-53
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:44:13-46:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:45:17-83
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:45:25-81
+service#de.j4velin.pedometer.SensorListener
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:49:9-50:45
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:50:13-43
+service#de.j4velin.pedometer.widget.DashClock
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:52:9-68:19
+	android:permission
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:54:13-98
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:53:13-45
+intent-filter#com.google.android.apps.dashclock.Extension
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:55:13-57:29
+action#com.google.android.apps.dashclock.Extension
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:56:17-85
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:56:25-83
+meta-data#protocolVersion
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:59:13-61:36
+	android:value
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:61:17-34
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:60:17-47
+meta-data#worldReadable
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:62:13-64:39
+	android:value
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:64:17-37
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:63:17-45
+meta-data#description
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:65:13-67:65
+	android:value
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:67:17-63
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:66:17-43
+activity#de.j4velin.pedometer.widget.WidgetConfig
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:70:9-76:20
+	android:theme
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:72:13-73
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:71:13-48
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:73:13-75:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:74:17-86
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:74:25-84
+receiver#de.j4velin.pedometer.widget.Widget
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:78:9-86:20
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:78:19-48
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:79:13-81:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:80:17-83
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:80:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:83:13-85:49
+	android:resource
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:85:17-47
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:84:17-58
+service#de.j4velin.pedometer.widget.WidgetUpdateService
+ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:88:9-62
+	android:name
+		ADDED from C:\Users\Sergiu\Desktop\Pedometer-master\src\main\AndroidManifest.xml:88:18-60
+activity#de.j4velin.lib.colorpicker.ExtractFromPhoto
+ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:12:9-15:54
+	android:hardwareAccelerated
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:14:13-48
+	android:theme
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\Sergiu\.gradle\caches\transforms-1\files-1.1\colorpicker-1.20.6.aar\a7a73a68494532ff662f58f9e9ad39f9\AndroidManifest.xml:13:13-71

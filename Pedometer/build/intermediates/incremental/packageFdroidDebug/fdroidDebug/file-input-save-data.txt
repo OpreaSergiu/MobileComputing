@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 07 00:05:55 EEST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Sergiu\\Desktop\\Pedometer-master\\build\\intermediates\\transforms\\dexMerger\\fdroid\\debug\\57
+0.path=classes.dex
+0.set=DEX
+count=1
